@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\Users\user\Documents\workspace-sts-3.9.4.RELEASE\msgPro\.metadata\.plugins\org.eclipse.jdt.core
+2901437650.index
+3868254903.index
+1488594900.index
+3902035624.index
+1187444128.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;MessagePreocessing&apos;&#x0D;&#x0A;- Original project: &apos;MessagePreocessing&apos;&#x0D;&#x0A;- Original element: &apos;MessagePreocessing/src/main/java/com.technical.test.msgPro.MessagePreocessing&apos;" description="Delete element" element1="/src\/main\/java&lt;com.technical.test.msgPro.MessagePreocessing" element2="/src\/main\/java&lt;com.technical.test.msgPro" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1536832838603" subPackages="false" version="1.0"/>
+</session>
